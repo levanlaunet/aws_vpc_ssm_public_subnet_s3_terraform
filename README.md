@@ -1,0 +1,1 @@
+# aws_vpc_ssm_public_subnet_s3_terraform
